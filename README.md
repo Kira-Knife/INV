@@ -1,4 +1,4 @@
-# INV — Algorithmic Trading Bot for Binance Futures
+# INV - Algorithmic Trading Bot for Binance Futures
 
 **A rule-based trend-following bot for ETHUSDT perpetual futures, with a backtested strategy engine, a live Binance execution layer, and Telegram trade notifications.**
 
@@ -132,4 +132,3 @@ Wilder, J. W. Jr. (1978). *New Concepts in Technical Trading Systems.* Trend Res
 **Polina Lanina** ([@Kira-Knife](https://github.com/Kira-Knife))
 
 Built as a personal project in 2022. Licensed under MIT.
-
